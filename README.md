@@ -2,6 +2,8 @@
 
 Kotlin é uma linguagem de programação moderna, concisa e expressiva, projetada para ser interoperável com o Java.
 
+![JetBrains](https://upload.wikimedia.org/wikipedia/en/thumb/0/08/JetBrains_beam_logo.svg/1200px-JetBrains_beam_logo.svg.png)
+
 Desenvolvida pela JetBrains, ela é oficialmente suportada pelo Google para o desenvolvimento Android.
 
 Com características como nulabilidade controlada, extensões de função e suporte a programação funcional, o Kotlin oferece uma alternativa poderosa e segura para o desenvolvimento de software, tanto em ambientes Android quanto em aplicações backend.
