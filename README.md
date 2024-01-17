@@ -7,3 +7,7 @@ Kotlin é uma linguagem de programação moderna, concisa e expressiva, projetad
 Desenvolvida pela JetBrains, ela é oficialmente suportada pelo Google para o desenvolvimento Android.
 
 Com características como nulabilidade controlada, extensões de função e suporte a programação funcional, o Kotlin oferece uma alternativa poderosa e segura para o desenvolvimento de software, tanto em ambientes Android quanto em aplicações backend.
+
+### Exemplo de codigo em Kotlin
+
+![Ola Mundo em Kotlin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZ90xQ8BJkFFPdfWxz3CCS_W9so4xppX-zA&usqp=CAU)
