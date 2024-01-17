@@ -4,5 +4,5 @@ fun main() {
   // Var é usado para declarar uma Variavel mutavel
   var idade = 21
   
-  println("Meu nome é : " + nome + "e tenho " + idade + "anos")
+  println("Meu nome é " + nome + " e tenho " + idade + " anos")
 }
